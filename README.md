@@ -7,6 +7,7 @@ Static portfolio site for Ahmed Hemad, built from the supplied CV and reference 
 - `index.html` - page content and sections
 - `styles.css` - responsive visual design
 - `script.js` - project filtering behavior
+- `assets/ahmed-portrait.png` - generated portrait asset based on the supplied reference style
 - `assets/ahmed-hemad-cv.pdf` - local CV file linked from the portfolio
 
 ## Customize
